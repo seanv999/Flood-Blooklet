@@ -1,5 +1,5 @@
 //defining vars
-let nameOfbot = prompt("Name of bot: ")
+let nameOfbot = prompt("Name of bots: ")
 let gameId = prompt("Enter Game Pin: ");
 let numberOfBots = prompt("How many Bots: ")
 let botsToJoin;
@@ -17,7 +17,6 @@ fetch("https://api.blooket.com/api/firebase/join", {
     "accept": "application/json, text/plain, */*",
     "accept-language": "en-US,en;q=0.9",
     "content-type": "application/json;charset=UTF-8",
-    "sec-ch-ua": "\"Google Chrome\";v=\"89\", \"Chromium\";v=\"89\", \";Not A Brand\";v=\"99\"",
     "sec-ch-ua-mobile": "?0",
     "sec-fetch-dest": "empty",
     "sec-fetch-mode": "cors",
