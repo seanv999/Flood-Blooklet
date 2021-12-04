@@ -1,4 +1,6 @@
-# DEPRECIATED!
+# `DEPRECIATED! The Original Blooket Flooder`
+
+
 Join game as normal
 copy/paste code in bookmark bar 
 
